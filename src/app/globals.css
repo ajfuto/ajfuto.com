@@ -17,6 +17,7 @@
   --sh-jsxliterals: #6266d1;
   --sh-property: #e25a1c;
   --sh-entity: #e25a1c;
+  scrollbar-gutter: stable;
 }
 
 @media (prefers-color-scheme: dark) {

@@ -80,7 +80,7 @@ export default function Snip({ params }) {
           </p>
         </Suspense>
       </div>
-      <article className="prose prose-quoteless prose-neutral dark:prose-invert">
+      <article className="prose prose-quoteless prose-neutral dark:prose-invert max-w-[650px]">
         <CustomMDX source={post.content} />
       </article>
     </section>
