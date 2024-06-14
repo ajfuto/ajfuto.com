@@ -27,7 +27,7 @@ export function Navbar() {
           >
             ajfuto.com
           </Link>
-          <div className="flex flex-row space-x-0 pr-10">
+          <div className="flex flex-row space-x-0">
             {Object.entries(navItems).map(([path, { name }]) => {
               return (
                 <Link
