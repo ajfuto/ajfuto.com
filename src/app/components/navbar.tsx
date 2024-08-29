@@ -1,14 +1,14 @@
 import Link from 'next/link';
 
 const navItems = {
-  '/resume': {
-    name: '/resume',
+  '/snips': {
+    name: '/snips',
   },
   '/contact': {
     name: '/contact',
   },
-  '/snips': {
-    name: '/snips',
+  '/aj_futo_resume.pdf': {
+    name: '/resume',
   },
 };
 
