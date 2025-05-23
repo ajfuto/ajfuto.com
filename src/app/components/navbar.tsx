@@ -1,9 +1,6 @@
 import Link from 'next/link';
 
 const navItems = {
-  '/snips': {
-    name: '/snips',
-  },
   '/contact': {
     name: '/contact',
   },

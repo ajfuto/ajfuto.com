@@ -1,5 +1,3 @@
-import Link from "next/link"
-
 export default function Home() {
   return (
     <section>
@@ -8,26 +6,20 @@ export default function Home() {
       </h1>
       <div className="prose prose-neutral dark:prose-invert">
         <p>
-          {`I'm a cybersecurity researcher and problem solver. `}
+          {`I do cybersecurity research, write lots of code, and solve fun problems. `}
         </p>
       </div>
 
       <div className="prose prose-neutral dark:prose-invert">
         <p>
-          {`I graduated from the University of Central Florida with a Bachelor of Science in Computer Science. `}
-          {`While at UCF, I had the honor of being one of `}
-          <Link
-            href="https://www.ucf.edu/news/nsf-awards-ucf-2-9-million-to-train-next-generation-of-cybersecurity-defenders/"
-          >
-            {`UCF's first`}
-          </Link>
-          {` NSF Scholarship-for-Service students.`}
+          {`My interests include networking, virtualization, cryptography, and software development.`}
         </p>
       </div>
 
       <div className="prose prose-neutral dark:prose-invert">
         <p>
-          {`I enjoy solving problems in areas like networking, cryptography, and software development. `}
+          {`Offline, I enjoy travel, consuming media, and lifting. `}
+          {`I also bounce between casual hobbies like photography, gaming, and homelabbing.`}
         </p>
       </div>
     </section>
