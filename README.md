@@ -17,7 +17,6 @@ npm run dev
 ## Deployment
 ```bash
 npm run build
-npm run export
 ```
 
 ## Acknowledgements
