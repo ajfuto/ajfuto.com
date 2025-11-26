@@ -10,10 +10,8 @@ export default function Home() {
             <p>
             {`Check out my projects on `}
             <Link href="https://github.com/ajfuto">GitHub</Link>
-            {`, connect with me on `}
+            {` or connect with me on `}
             <Link href="https://www.linkedin.com/in/ajfuto/">LinkedIn</Link>
-            {`, or send me an email at `}
-            <Link href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">hello [at] ajfuto [dot] com</Link>
             {`.`}
             </p>
         </div>
